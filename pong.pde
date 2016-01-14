@@ -100,7 +100,7 @@ void draw() {
 
     //testing second ball
     fill(255,0,255);
-    ellipse(ball_x+15, ball_y+25, ball_size+50, ball_size+50);
+    ellipse(ball_x, ball_y, ball_size, ball_size);
     
     // Draw the paddle
     fill(255,255,255);
