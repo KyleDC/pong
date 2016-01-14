@@ -1,9 +1,9 @@
 # Intro to Computer Science 2016
-## South Whidbey High School
+## South Whidbey High School, wilcommen aus Deutschland.
 
 ---
 
-The basic idea is to use a simple *Pong* game to learn some HTML, CSS, ProcessingJS, and github pages. ja
+The basic idea is to use a simple *Pong* game to learn some HTML, CSS, ProcessingJS, and github pages.
 
 ---
 
